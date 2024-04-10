@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
-
 ### _Hi there 👋, I'm nanshuo（南烁）._
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
