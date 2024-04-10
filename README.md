@@ -12,4 +12,5 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/nanshuo0
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanshuo0814&theme=flag-india)](https://github.com/all-smile/github-readme-stats)
 
-[<span><img src="https://github-readme-stats.vercel.app/api?username=nanshuo0814&count_private=true&show_icons=true" height=145/></span>](https://nanshuo0814.github.io/)
+<span><img src="https://github-readme-stats.vercel.app/api?username=nanshuo0814&count_private=true&show_icons=true" height=145/></span>
+<span><img src="https://raw.githubusercontent.com/nanshuo0814/pic_bed/master/img/bg.png" height=145/></span>
